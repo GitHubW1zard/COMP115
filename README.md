@@ -1,2 +1,2 @@
 # COMP115
-for.school
+Interested: Data Science and ML
